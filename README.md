@@ -1,0 +1,1 @@
+A simple web page that displays a random quote from a list every time a button is clicked.
